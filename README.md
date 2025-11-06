@@ -29,3 +29,8 @@ Proyecto correspondiente al **2do Parcial** de *Técnicas Avanzadas de Programac
 
 1. Opción corta: **python run.py**
 2. Opción larga: **python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8000**
+
+
+## 4. Token de seguridad
+Solo probado en eventos listar:
+x-token: 12345
